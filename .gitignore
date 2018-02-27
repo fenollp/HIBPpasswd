@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+/links.txt
+/HIBP-*.cdx
+/HIBP-*.warc.gz
